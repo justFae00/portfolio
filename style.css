@@ -200,6 +200,7 @@ h2:hover {
 }
 
 .project-title {
+  text-decoration: none;
   font-size: 23px;
   font-family: Ubuntu;
   margin-top: -8cm;
